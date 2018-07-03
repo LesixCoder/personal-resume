@@ -25,12 +25,12 @@
 ## 工作经历
 
 #### 北京木米科技（ 2017.12 ~ 2018.06 ）
-主要职责：配合第三方活动做微信公众平台的开发，h5开发
+主要职责：配合第三方活动做微信公众平台的开发，h5开发 <br>
 技术结构：vue、nodejs、koa2、MongoDB、es6/es7、webpack、parcel、nginx
 
 #### 北京稼优佳文化传媒 （ 2016.06 ~ 2017.11 ）
-主要职责：咆哮狗活动微信平台webapp及对应后台管理系统的开发、运营活动的h5开发、咆哮狗商城微信平台webapp、官网的页面构建、lunchtest项目的餐评webapp、
-技术结构：vue、jquery、bootstrap、express、nginx、cookie、session
+主要职责：咆哮狗活动微信平台webapp及对应后台管理系统的开发、运营活动的h5开发、咆哮狗商城微信平台webapp、官网的页面构建、lunchtest项目的餐评webapp <br>
+技术结构：vue、jquery、bootstrap、express、nginx、cookie、session <br>
 具体描述：在后期做咆哮狗微信平台webapp及后台管理系统时配合后台做了前后分离的技术方案，统一接口的管理分发，请求数据的处理。
 
 ## 自我评价
